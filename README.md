@@ -80,7 +80,7 @@ Enter the name of the city in the search input field.
 
 
 
-Click the "Search" button to fetch and display the current weather and the 7-day forecast for the city.
+Click the "Search" button to fetch and display the current weather and the 5-day forecast for the city.
 
 
  * Use Current Location:
