@@ -1,8 +1,28 @@
+![image](https://github.com/user-attachments/assets/7bbbc29c-e424-47c7-b11b-ec0c0a6b5624)
 
 
 
 
-![image](https://github.com/user-attachments/assets/06be9607-3d5e-4d1b-a0ca-6964936070e7)
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/70f3b9fe-34e5-40fe-8e14-862a84d3a294)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Weather Application
