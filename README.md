@@ -1,3 +1,10 @@
+
+
+
+
+![image](https://github.com/user-attachments/assets/06be9607-3d5e-4d1b-a0ca-6964936070e7)
+
+
 Weather Application
 
 
